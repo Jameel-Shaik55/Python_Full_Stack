@@ -1,2 +1,16 @@
-# Python_Full_Stack
-This repository contains a Python full-stack project featuring a Flask backend and a responsive frontend. It includes CRUD operations, REST API endpoints, session management, and database connectivity using MySQL. The frontend is developed using HTML, CSS, JavaScript, and Bootstrap for an interactive user experience.
+# Python Full Stack Projects
+
+This repository contains links to my full-stack web development projects built using Python (Flask), MySQL, HTML, CSS, JavaScript, and Bootstrap.
+
+## Projects
+
+1. [Online Campus Placement Management System](https://github.com/yourusername/OCPMS)
+2. [Movie Ticket Booking System](https://github.com/yourusername/movie-ticket-booking)
+3. [Flask CRUD API Demo](https://github.com/yourusername/flask-crud-api)
+4. [Meme Generator (Angular + Flask)](https://github.com/yourusername/memegenerator_app)
+
+Each repository contains:
+- Source code  
+- Database schema  
+- Project explanation  
+- Setup and run instructions
