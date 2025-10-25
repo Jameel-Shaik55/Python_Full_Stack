@@ -5,7 +5,7 @@ This repository contains links to my full-stack web development projects built u
 ## Projects
 
 1. [Online Campus Placement Management System](https://github.com/Jameel-Shaik55/OCPMS)
-2. [Movie Ticket Booking System](https://github.com/yourusername/movie-ticket-booking)
+2. [Movie Ticket Booking System](https://github.com/Jameel-Shaik55/MTBP.git)
 3. [Flask CRUD API Demo](https://github.com/yourusername/flask-crud-api)
 4. [Meme Generator (Angular + Flask)](https://github.com/yourusername/memegenerator_app)
 
